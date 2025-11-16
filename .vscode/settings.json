@@ -1,11 +1,6 @@
 {
     "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
-<<<<<<< HEAD
-    "python.terminal.activateEnvironment": true
-=======
     "python.terminal.activateEnvironment": true,
     "python.analysis.autoImportCompletions": true,
     "python.analysis.typeCheckingMode": "basic"
-
->>>>>>> 7b0bb17 (Add ScanStocks 02.py and other updates)
 }
